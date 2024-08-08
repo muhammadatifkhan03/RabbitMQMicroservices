@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RTg+V2UBW7MMsRtDBxk0CKBCnxNniWlpIB3C1ksVEv4=",
+  "Source": "Order-Service.WebApi",
+  "BasePath": "_content/Order-Service.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

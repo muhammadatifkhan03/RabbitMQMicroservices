@@ -1,0 +1,30 @@
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Dto.deps.json
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Dto.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Dto.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Core.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Core.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.AssemblyInfo.cs
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Ser.111EAE43.Up2Date
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\refint\User-Service.Dto.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\ref\User-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Dto.deps.json
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Dto.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Core.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\bin\Debug\net8.0\User-Service.Core.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.AssemblyInfo.cs
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Ser.111EAE43.Up2Date
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\refint\User-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\User-Service.Dto.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\User-Service.Dto\obj\Debug\net8.0\ref\User-Service.Dto.dll

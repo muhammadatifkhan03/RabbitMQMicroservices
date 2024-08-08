@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ma7Ros1unL4dkgWLB4vLsmGU9vnlY0OyUHchCf+OGTo=",
+  "Source": "Runner.Microservices",
+  "BasePath": "_content/Runner.Microservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  user-service.webapi:
+    image: ${DOCKER_REGISTRY-}userservicewebapi
+    build:
+      context: .
+      dockerfile: User-Service-webApi/Dockerfile
+  order-service.webapi:
+    image: ${DOCKER_REGISTRY-}orderservicewebapi
+    build:
+      context: .
+      dockerfile: Order-Service-webApi/Dockerfile
+

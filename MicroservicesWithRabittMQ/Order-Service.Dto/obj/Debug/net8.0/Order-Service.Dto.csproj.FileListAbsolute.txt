@@ -1,0 +1,30 @@
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Dto.deps.json
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Dto.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Dto.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Core.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Core.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.AssemblyInfo.cs
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Se.C83DCFC2.Up2Date
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\refint\Order-Service.Dto.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\ref\Order-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Dto.deps.json
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Dto.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Core.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\bin\Debug\net8.0\Order-Service.Core.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.AssemblyInfo.cs
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Se.C83DCFC2.Up2Date
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\refint\Order-Service.Dto.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\Order-Service.Dto.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Order-Service.Dto\obj\Debug\net8.0\ref\Order-Service.Dto.dll

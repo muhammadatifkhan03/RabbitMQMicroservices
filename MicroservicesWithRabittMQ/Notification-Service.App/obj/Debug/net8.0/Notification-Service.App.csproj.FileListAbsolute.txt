@@ -1,0 +1,34 @@
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.exe
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.deps.json
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.runtimeconfig.json
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.AssemblyInfo.cs
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notifica.24C793D3.Up2Date
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\refint\Notification-Service.App.dll
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.pdb
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.genruntimeconfig.cache
+C:\Users\malik\source\repos\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\ref\Notification-Service.App.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.exe
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.deps.json
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.runtimeconfig.json
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\Notification-Service.App.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.AssemblyInfoInputs.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.AssemblyInfo.cs
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notifica.24C793D3.Up2Date
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\refint\Notification-Service.App.dll
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.pdb
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\Notification-Service.App.genruntimeconfig.cache
+C:\Users\malik\source\repos\New folder\MicroservicesWithRabittMQ\Notification-Service.App\obj\Debug\net8.0\ref\Notification-Service.App.dll
